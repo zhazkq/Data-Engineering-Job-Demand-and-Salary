@@ -5,7 +5,7 @@ Explore data engineering job demand by company profile
 Find the most and the least needed skills for data engineering jobs
 Salary statistical summary
 Build a prediction model for salary based on the most relevant job specifications
-##Conclusion¶
+## Conclusion¶
 SQL and Python are the two languages required the most
 38% of job postings requiring a degree seem very low
 Job experience seems more important than education
